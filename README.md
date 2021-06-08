@@ -1,9 +1,15 @@
 [EN] Simple Calculator Project
+
 [EN] The project has been prepared in both English and Turkish.
+
 [EN] Makes addition, subtraction, multiplication, division, exponentiation in the simplest and most explanatory way.
+
 [EN] You can share and use wherever you want by showing the source.
+
 [EN] Open Source. It is suitable for development.
+
 [EN] Prepared in Turkey.
+
 [EN] Prepared by akerem16.
 
 
