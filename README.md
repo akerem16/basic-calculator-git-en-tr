@@ -1,29 +1,34 @@
-:en: Simple Calculator Project
 
-:en: The project has been prepared in both English and Turkish.
+---------------------------------------------------------------------------------------------------------------------------
 
-:en: Makes addition, subtraction, multiplication, division, exponentiation in the simplest and most explanatory way.
+:us:  Simple Calculator Project
 
-:en: You can share and use wherever you want by showing the source.
+:us:  The project has been prepared in both English and Turkish.
 
-:en: Open Source. It is suitable for development.
+:us:  Makes addition, subtraction, multiplication, division, exponentiation in the simplest and most explanatory way.
 
-:en: Prepared in Turkey.
+:us:  You can share and use wherever you want by showing the source.
 
-:en: Prepared by akerem16.
+:us:  Open Source. It is suitable for development.
 
+:us:  Prepared in Turkey.
 
+:us:  Prepared by akerem16.
 
-:tr: Basit Hesap Makinesi Projesi
+---------------------------------------------------------------------------------------------------------------------------
 
-:tr: Proje hem ingilizce hem de türkçe olarak hazırlanmıştır.
+:tr:  Basit Hesap Makinesi Projesi
 
-:tr: Toplama, çıkarma, çarpma, bölme, üs alma işlemlerini en basit ve açıklayıcı şekilde yapar.
+:tr:  Proje hem ingilizce hem de türkçe olarak hazırlanmıştır.
 
-:tr: Kaynak göstererek istediğiniz yerde paylaşıp kullanabilirsiniz.
+:tr:  Toplama, çıkarma, çarpma, bölme, üs alma işlemlerini en basit ve açıklayıcı şekilde yapar.
 
-:tr: Açık Kaynaklıdır. Geliştirmeye müsaittir.
+:tr:  Kaynak göstererek istediğiniz yerde paylaşıp kullanabilirsiniz.
 
-:tr: Türkiyede hazırlanmıştır.
+:tr:  Açık Kaynaklıdır. Geliştirmeye müsaittir.
 
-:tr: akerem16 tarafından hazırlanmıştır.
+:tr:  Türkiyede hazırlanmıştır.
+
+:tr:  akerem16 tarafından hazırlanmıştır.
+
+---------------------------------------------------------------------------------------------------------------------------
